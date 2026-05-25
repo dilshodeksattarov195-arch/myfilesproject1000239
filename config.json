@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricssave",
+        "uuid": 1466026,
+        "checksum": "lyxnib"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
